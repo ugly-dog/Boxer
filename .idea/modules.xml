@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Boxer.iml" filepath="$PROJECT_DIR$/.idea/Boxer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shellsort/Shellsort.iml" filepath="$PROJECT_DIR$/Shellsort/Shellsort.iml" />
     </modules>
   </component>
 </project>
